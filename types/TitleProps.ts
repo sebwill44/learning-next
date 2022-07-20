@@ -1,6 +1,6 @@
 export type TitleProps = {
     /**
-     * For the text to be displayed on the title
+     * Copy to be displayed in the title
      */
     text?: string
 }
